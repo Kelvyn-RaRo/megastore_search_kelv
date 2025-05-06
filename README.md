@@ -5,16 +5,16 @@ Este projeto é uma aplicação simples e eficiente desenvolvida em Rust, que pe
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
-- 🦀 Linguagem: **Rust**
-- 🧠 Estruturas: **HashMap**, **Grafos**
-- 💻 Editor: **Visual Studio Code**
-- 📦 Gerenciador de pacotes: **Cargo**
+-  Linguagem: **Rust**
+-  Estruturas: **HashMap**, **Grafos**
+-  Editor: **Visual Studio Code**
+-  Gerenciador de pacotes: **Cargo**
 
 ---
 
-## ⚙️ Como Executar o Projeto
+##  Como Executar o Projeto
 
 Clone o repositório e execute:
 
@@ -24,7 +24,7 @@ cargo run
 
 ---
 
-## 🧪 Como Rodar os Testes
+##  Como Rodar os Testes
 
 ```PROMPT
 cargo test
@@ -32,20 +32,20 @@ cargo test
 
 ---
 
-## 💡 Exemplo de Uso
+##  Exemplo de Uso
 
 ```text
-🔍 Resultado da busca por 'tv':
+ Resultado da busca por 'tv':
 - Smart TV Samsung 50"
 
-📦 Recomendados para 'Smart TV Samsung 50"':
+ Recomendados para 'Smart TV Samsung 50"':
 - Suporte de Parede
 - Soundbar JBL
 ```
 
 ---
 
-## 🧱 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```text
 📁 src/
@@ -56,14 +56,14 @@ cargo test
 
 ---
 
-## 🧠 Estruturas de Dados
+##  Estruturas de Dados
 
 - **HashMap**: Para indexar produtos por palavras-chave.
 - **Grafo (HashMap com vetores)**: Para armazenar produtos recomendados por item.
 
 ---
 
-## 📈 Desempenho
+## Desempenho
 
 - Busca por palavra-chave: **Tempo constante (O(1))**
 - Recomendação por grafo: **Busca leve e direta (O(1) a O(n))**
@@ -71,7 +71,7 @@ cargo test
 
 ---
 
-## 📜 Licença
+##  Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
