@@ -24,7 +24,7 @@ cargo run
 
 ---
 
-##  Como Rodar os Testes
+##  Como Rodar o Teste
 
 ```PROMPT
 cargo test
